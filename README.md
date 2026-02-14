@@ -78,7 +78,7 @@ Thank you! Hopefully it will be handy :)
 
 ```bash
 NOTE:
-## Audio Scan (Experimental) AND Smart audio Clean
+## Audio Scan & Smart Clean (Experimental)
 
 The built-in audio scanner is optimized for speech detection (interviews, podcasts, dialogue-driven content).
 
