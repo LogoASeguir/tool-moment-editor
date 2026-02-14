@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+venvtemp/
+*.json
+*_raw_clips/
+dist/
+build/
