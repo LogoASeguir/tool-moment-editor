@@ -1,5 +1,3 @@
-# audio_segmenter.py
-
 import json
 import subprocess
 import tempfile
@@ -313,4 +311,5 @@ if __name__ == "__main__":
     print(f"  Moments: {result['moment_count']}")
     print(f"  Fluxes: {result['flux_count']}")
     print(f"  Speech ratio: {result['speech_ratio']*100:.1f}%")
+
     print(f"  JSON: {out_json}")
