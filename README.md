@@ -10,6 +10,20 @@ Features:
 - JSON-based project structure
 - Seamless clip export via FFmpeg
 
+## 🎥 Demo
+
+### Creating Moments
+![Create Demo](assets/demo_basic_edit.gif)
+
+### Merging & Editing
+![Merge Demo](assets/demo_merge..gif)
+
+### Seamless Export
+![Export Demo](assets/demo_export.gif)
+
+---
+
+High quality video demo available in Releases.
 ---
 
 ## Requirements
