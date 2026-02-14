@@ -26,8 +26,12 @@ Features:
 ```bash
 git clone https://github.com/LogoASeguir/non-destructive-video-moment-editor.git
 cd non-destructive-video-moment-editor
+```
+```bash
 2. Install Python dependencies
 pip install -r requirements.txt
+```
+
 3. Install FFmpeg
 Windows
 
@@ -54,7 +58,7 @@ Optional:
 
 python moment_editor.py /path/to/video.mp4
 
-
+```bash
 Controls
 
 Space — Play / Pause
@@ -65,8 +69,8 @@ C — Smart Clean
 E — Clip Editor
 Ctrl+Z — Undo
 Ctrl+M — Merge (concatenate)
-
 Export
+```
 
 Exports clips as:
 - Seamless single-segment clips (merge all concatenate at the end)
