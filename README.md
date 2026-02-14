@@ -1,6 +1,6 @@
 # Non-Destructive Video Moment Editor (Python + FFmpeg)
 
-A Qt-based video moment editor for creating, editing and exporting non-destructive clip segments
+A PyQt6 desktop application for creating and managing video "moments" without altering the original media file. Includes smart audio-based speech segmentation and seamless FFmpeg export.
 
 Features:
 - IN / OUT slicing workflow
