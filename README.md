@@ -49,8 +49,7 @@ Linux
 sudo apt install ffmpeg
 ```
 
-Running the Editor
-python moment_editor.py or python moment_editor.py /path/to/video.mp4
+Running the Editor: python moment_editor.py or python moment_editor.py /path/to/video.mp4
 
 ```bash
 Controls
