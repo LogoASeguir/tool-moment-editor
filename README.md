@@ -74,4 +74,4 @@ Exports clips as:
 FFmpeg must be accessible from terminal: ffmpeg -version
 If FFmpeg is not found, the application will not start.
 ```
-Thank you! Hopefully will be handy :)
+Thank you! Hopefully it will be handy :)
