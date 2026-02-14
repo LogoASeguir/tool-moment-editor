@@ -31,10 +31,9 @@ cd non-destructive-video-moment-editor
 2. Install Python dependencies
 pip install -r requirements.txt
 ```
-
+```bash
 3. Install FFmpeg
 Windows
-
 Download FFmpeg from:
 https://www.gyan.dev/ffmpeg/builds/
 
@@ -42,21 +41,16 @@ Extract and add the bin folder to your system PATH.
 
 Verify installation:
 ffmpeg -version
-	
-	***
+
 macOS (Homebrew)
 brew install ffmpeg
 
 Linux
 sudo apt install ffmpeg
-	***
+```
 
 Running the Editor
-python moment_editor.py
-
-Optional:
-
-python moment_editor.py /path/to/video.mp4
+python moment_editor.py or python moment_editor.py /path/to/video.mp4
 
 ```bash
 Controls
@@ -75,12 +69,10 @@ Export
 Exports clips as:
 - Seamless single-segment clips (merge all concatenate at the end)
 - Concatenated compound clips (batch render individual segments)
+- (Optional micro-crossfade between cuts)
 
-Optional micro-crossfade between cuts
-
-Notes
+```bash
 FFmpeg must be accessible from terminal: ffmpeg -version
-
 If FFmpeg is not found, the application will not start.
-
+```
 Thank you! Hopefully will be handy :)
