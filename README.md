@@ -97,3 +97,9 @@ It may not perform well on:
 - Continuous ambient sound
 - High-noise recordings
 ```
+---
+
+### Author
+
+Built by [Renato Pedrosa]  
+Part of a growing ecosystem of Python-based developer tools.
