@@ -1,4 +1,7 @@
 # Non-Destructive Video Moment Editor (Python + FFmpeg)
+![Status](https://img.shields.io/badge/status-local-lightgrey)
+![License](https://img.shields.io/github/license/LogoASeguir/tool-moment-editor)
+![Issues](https://img.shields.io/github/issues/LogoASeguir/tool-moment-editor)
 
 A PyQt6 desktop application for creating and managing video "moments" without altering the original media file. Includes smart audio-based speech segmentation and seamless FFmpeg export.
 
