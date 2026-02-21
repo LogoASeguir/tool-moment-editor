@@ -37,8 +37,8 @@ Features:
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/LogoASeguir/non-destructive-video-moment-editor.git
-cd non-destructive-video-moment-editor
+git clone https://github.com/LogoASeguir/tool-moment-editor.git
+cd non-destructive-video--editor
 ```
 ```bash
 2. Install Python dependencies
