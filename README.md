@@ -38,7 +38,7 @@ Features:
 
 ```bash
 git clone https://github.com/LogoASeguir/tool-moment-editor.git
-cd non-destructive-video--editor
+cd tool-moment-editor
 ```
 ```bash
 2. Install Python dependencies
